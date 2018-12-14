@@ -32,7 +32,7 @@ testForm.onsubmit = function(event) {
   // console.log(options);
   // console.log(JSON.stringify(formData));
   // console.log(JSON.stringify(options));
-  console.log(request.response);
+  // console.log(request.response);
 
   window.location.assign("index.html")
 }
