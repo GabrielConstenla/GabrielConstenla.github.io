@@ -1,5 +1,5 @@
 
-var cacheName = 'misascensoris-v7';
+var cacheName = 'misascensoris-v8';
 
 var filesToCache = [
   '/',
@@ -7,6 +7,7 @@ var filesToCache = [
   '/listado.html',
   '/orden.html',
   '/login.html',
+  '/ordenesRealizadas.html',
   '/css/carrusel.css',
   '/css/main.css',
   '/css/menu.css',
