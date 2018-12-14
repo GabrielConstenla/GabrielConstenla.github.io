@@ -1,4 +1,4 @@
-var cacheName = 'misascensoris-v2';
+var cacheName = 'misascensoris-v3';
 var filesToCache = [
   '/',
   '/index.html',
