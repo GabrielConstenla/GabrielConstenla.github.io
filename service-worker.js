@@ -1,5 +1,5 @@
 
-var cacheName = 'misascensoris-v6';
+var cacheName = 'misascensoris-v7';
 
 var filesToCache = [
   '/',
